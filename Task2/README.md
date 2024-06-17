@@ -39,3 +39,8 @@ Enter second number: 5
 Enter operation choice (1/2/3/4): 1
 Result: 15.0
 
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE] file for details.
