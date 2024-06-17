@@ -26,3 +26,16 @@ python simple_calculator.py
 3. Choose the operation (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
 
 The program will perform the calculation and display the result.
+
+Simple Calculator
+=================
+Operations:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter first number: 10
+Enter second number: 5
+Enter operation choice (1/2/3/4): 1
+Result: 15.0
+
