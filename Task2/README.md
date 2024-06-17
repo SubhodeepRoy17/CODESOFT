@@ -19,7 +19,7 @@ This Python program is a simple calculator that performs basic arithmetic operat
 python simple_calculator.py
 ```
 
-##Follow the prompts to input two numbers and choose an operation:
+## Follow the prompts to input two numbers and choose an operation:
 
 1. Enter the first number.
 2. Enter the second number.
